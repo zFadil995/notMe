@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "944236095935",
+    "firebase_url": "https://notme-e4bc8.firebaseio.com",
+    "project_id": "notme-e4bc8",
+    "storage_bucket": "notme-e4bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944236095935:android:3fa7706cfbfe47b3",
+        "android_client_info": {
+          "package_name": "com.xamarin.sample.NotMe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944236095935-bu8v3pbm25f94p1hflgqekncaon1neg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
